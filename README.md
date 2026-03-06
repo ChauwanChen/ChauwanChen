@@ -1,6 +1,6 @@
 ## Olá, Boas-vindas👋
 
-** Eu me chamo Chauwan Chen, é um prazer te ter por aqui! Desde criança, fui apaixonado por tecnologia e sempre soube que queria seguir nessa área. Atualmente estou em formação em Análise e Desenvolvimento de Sistema na IMPACTA, realizei um bootcamp de Analista de dados, pela TripleTen. Agora estou ansioso para aplicar meus conhecimentos em projetos reais e crescer ainda mais nessa área.
+Eu me chamo Chauwan Chen, é um prazer te ter por aqui! Desde criança, fui apaixonado por tecnologia e sempre soube que queria seguir nessa área. Atualmente estou em formação em Análise e Desenvolvimento de Sistema na IMPACTA, realizei um bootcamp de Analista de dados, pela TripleTen. Agora estou ansioso para aplicar meus conhecimentos em projetos reais e crescer ainda mais nessa área.
 
 Trabalho principalmente com Python e SQL para desenvolver análises exploratórias de dados, análises estatísticas e visualizações, também crio dashboards no Tableau e Excel.
 
