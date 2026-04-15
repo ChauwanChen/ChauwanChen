@@ -77,9 +77,10 @@ Estou animado para aplicar meus conhecimentos em projetos reais e continuar cres
     title="Git"
     width="50px" 
     style="padding-right: 10px;" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
-          
-E fique a vontade para dar uma olhada nos meus projetos aqui em baixo:
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"
+     />
+     
+#### E fique a vontade para dar uma olhada nos meus projetos aqui em baixo:
 ------------
 
 |    Nome do Projeto  | Notebook ou Link    | Linguagem    | Observação  | 
