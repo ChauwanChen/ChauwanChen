@@ -1,11 +1,11 @@
 # ☺️ Chauwan Chen               
 **`Analista de dados`**
 
-É um prazer te ter por aqui! Me chamo Chauwan Chen, tenho 27 anos e desde criança, sempre fui apaixonado por tecnologia e sempre soube que queria seguir nessa área. Atualmente estou cursando Análise e Desenvolvimento de Sistema na IMPACTA, realizei um bootcamp de Analista de dados, pela TripleTen. Agora estou ansioso para aplicar meus conhecimentos em projetos reais e crescer ainda mais nessa área.
+É um prazer te ter por aqui! Me chamo Chauwan Chen, tenho 27 anos e, desde criança, sempre fui apaixonado por tecnologia e sempre soube que queria seguir nessa área. Atualmente estou cursando Análise e Desenvolvimento de Sistema na IMPACTA e realizei um bootcamp de Analista de Dados, pela TripleTen. Agora estou ansioso para aplicar meus conhecimentos em projetos reais e crescer ainda mais nessa área.
 
-Trabalho principalmente com Python e SQL para desenvolver análises exploratórias de dados, análises estatísticas e visualizações, também crio dashboards no Tableau e Excel.
+Trabalho principalmente com Python e SQL para desenvolver análises exploratórias de dados, análises estatísticas e visualizações. Também crio dashboards no Tableau e Excel.
 
-Aprendi muito sobre as principais bibliotecas Python utilizadas na análise de dados (pandas, numpy, matplotlib, plotly, scipy, scikit learn, entre outras), testes estatísticos e claro limpeza, transformação e pre-processamento de dados.
+Aprendi muito sobre as principais bibliotecas Python utilizadas na análise de dados (pandas, numpy, matplotlib, plotly, scipy, scikit-learn, entre outras), testes estatísticos e, claro limpeza, transformação e pre-processamento de dados.
 
 
 </a> 
