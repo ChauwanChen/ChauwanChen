@@ -1,11 +1,11 @@
 # ☺️ Chauwan Chen               
 **`Analista de dados`**
 
-É um prazer te ter por aqui! Me chamo Chauwan Chen, tenho 27 anos e, desde criança, sempre fui apaixonado por tecnologia e sempre soube que queria seguir nessa área. Atualmente estou cursando Análise e Desenvolvimento de Sistema na IMPACTA e realizei um bootcamp de Analista de Dados, pela TripleTen. Agora estou ansioso para aplicar meus conhecimentos em projetos reais e crescer ainda mais nessa área.
+É um prazer te ter por aqui! Me chamo Chauwan Chen, tenho 27 anos e, desde criança, sempre fui apaixonado por tecnologia e sempre soube que queria seguir nessa área. Atualmente estou cursando Análise e Desenvolvimento de Sistema na IMPACTA, decidi investir em cursos de Análise de Dados para aprimorar minhas habilidades nesses campos. Rapidamente me apaixonei pela área, pois ela envolve programação, estatística e pensamento analítico.
 
-Trabalho principalmente com Python e SQL para desenvolver análises exploratórias de dados, análises estatísticas e visualizações. Também crio dashboards no Tableau e Excel.
+Formado no Bootcamp de Analista de Dados da TripleTen. Durante o curso, adquiri conhecimentos valiosos sobre as principais bibliotecas Python utilizadas na análise de dados, como pandas, numpy, matplotlib, plotly, scipy e scikit-learn, entre outras. Aprendi a aplicá-las na solução de problemas de negócios, como machine learning, segmentação de clientes, análise de KPIs, testes estatísticos e análise econômica. Também dediquei muitas horas à limpeza, transformação e pré-processamento de conjuntos de dados.
 
-Aprendi muito sobre as principais bibliotecas Python utilizadas na análise de dados (pandas, numpy, matplotlib, plotly, scipy, scikit-learn, entre outras), testes estatísticos e, claro limpeza, transformação e pre-processamento de dados.
+Estou animado para aplicar meus conhecimentos em projetos reais e continuar crescendo nessa área tão promissora! Se tiver alguma pergunta ou precisar de ajuda, fique à vontade para me perguntar.
 
 
 </a> 
@@ -79,4 +79,11 @@ Aprendi muito sobre as principais bibliotecas Python utilizadas na análise de d
     style="padding-right: 10px;" 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
           
-          
+E fique a vontade para dar uma olhada nos meus projetos aqui em baixo:
+------------
+
+|    Nome do Projeto  | Notebook ou Link    | Linguagem    | Observação  | 
+| ------------        | ------------        | ------------ |------------ |
+| *Teste A/A/B para Startup * | [Análise estatísticas de grupos](https://github.com/ChauwanChen/Test-A-A-B) | Python| **Um projeto com Análise Baseada em Eventos e Teste A/A/B. Da definição do problema, tratamento, passando pela Análise Exploratória dos Dados (EDA - Exploratory Data Analysis), Análise de Funil de vendas e Análise do TesteA/A/B, de uma startup de produtos alimentícios..|
+| *Análise de vídeos tendências* | [Tableau Análise de tendências](https://github.com/ChauwanChen/Tableau) | Tableau| **Um projeto de análise de insights**. Estamos verificando as tendências de vídeos e suas categorias baseado nos países, para comparar e entender costumes culturais e suas diferenças.|
+| *Projeto Final* | [Final Project - Data Analystic](https://github.com/ChauwanChen/FINAL-PROJECT) | Python| SQL **Projeto final com apresentação, decomposição, dashboard Análise de dados, Análise de negócio e SQL** |
