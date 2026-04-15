@@ -38,8 +38,8 @@ Estou animado para aplicar meus conhecimentos em projetos reais e continuar cres
 
 <img 
     align="left" 
-    alt="Python"
-    title="Python" 
+    alt="Pandas"
+    title="Pandas" 
     width="50px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain-wordmark.svg"/>
