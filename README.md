@@ -8,13 +8,7 @@ Formado no Bootcamp de Analista de Dados da TripleTen. Durante o curso, adquiri 
 Estou animado para aplicar meus conhecimentos em projetos reais e continuar crescendo nessa área tão promissora! Se tiver alguma pergunta ou precisar de ajuda, fique à vontade para me perguntar.
 
 
-</a> 
-    <a href="https://www.linkedin.com/in/chauwanchen/">
-        <img 
-        alt="Meu Linkedin"
-        title="Meu Linkedin"
-        src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24" height="24">
-    </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/chauwanchen/])
 
 #### E fique a vontade para dar uma olhada nos meus projetos aqui em baixo:
 ------------
